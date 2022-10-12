@@ -1,0 +1,20 @@
+#Log {
+    width: 150px;
+    border-radius: 50px;
+}
+#Text_box {
+    width: 300px;
+}
+#camera , #result {
+    width: 360px;
+    height: 250px;
+    border: 2px solid rgb(56, 56, 56);
+    border-radius: 20px;
+}
+#BTN {
+    width: 20%;
+    height: 5%;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 10px;
+}
